@@ -172,7 +172,8 @@ header.masthead {
     font-size: 2em;
     font-weight: 700;
     display: block;
-    text-transform: uppercase; }
+    text-transform:uppercase;
+   }
   header.masthead .intro-text .skills {
     font-size: 1.25em;
     font-weight: 300; }
