@@ -1,3 +1,3 @@
-# shridattdudhat.github.io
+# Shridatt Dudhat
 
-Shridatt Dudhat Personal Website
+Protfolio Webpage
