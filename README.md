@@ -1,3 +1,0 @@
-# Shridatt Dudhat
-
-Protfolio Webpage
